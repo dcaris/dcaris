@@ -1,2 +1,2 @@
-webpackJsonp([27939762695765],{354:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My First Post",path:"/blog/first-post"}}}]}},pathContext:{tag:"personal"}}}});
+webpackJsonp([27939762695765],{352:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My First Post",path:"/blog/first-post"}}}]}},pathContext:{tag:"personal"}}}});
 //# sourceMappingURL=path---tags-personal-305bb871f460f6cbf2a0.js.map
